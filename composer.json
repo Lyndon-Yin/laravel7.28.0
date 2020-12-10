@@ -40,6 +40,9 @@
             "Lyndon\\": "lyndon/",
             "App\\": "app/"
         },
+        "files": [
+            "lyndon/helpers.php"
+        ],
         "classmap": [
             "database/seeds",
             "database/factories"
